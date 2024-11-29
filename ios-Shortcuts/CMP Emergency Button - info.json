@@ -1,0 +1,14 @@
+{
+    "version": "1.0.0",
+    "lastUpdated": "2024-11-29",
+    "shortcutURL": "https://www.icloud.com/shortcuts/YOUR_SHORTCUT_ID_HERE",
+    "description": "Example shortcut that checks for updates",
+    "changelog": [
+        {
+            "version": "1.0.0",
+            "changes": [
+                "Initial release"
+            ]
+        }
+    ]
+}
