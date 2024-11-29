@@ -50,5 +50,4 @@ A GitHub-based version control system for iOS Shortcuts, enabling easy managemen
 Pull requests welcome. For major changes, open an issue first.
 
 ## Creator
-[Your Name]
-[Your Contact Info]
+Wilhelm Maritz
